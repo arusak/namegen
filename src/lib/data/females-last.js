@@ -1,7 +1,4 @@
-if (!window.dictionary) window.dictionary = {};
-if (!dictionary.females) dictionary.females = {};
-
-dictionary.females.last = [
+export const femalesLast = [
   {
     "n": "Иванова",
     "c": 4593

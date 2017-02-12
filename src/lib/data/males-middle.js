@@ -1,7 +1,4 @@
-if (!window.dictionary) window.dictionary = {};
-if (!dictionary.males) dictionary.males = {};
-
-dictionary.males.middle = [
+export const malesMiddle = [
   {
     "n": "Александрович",
     "c": 28901
@@ -402,4 +399,4 @@ dictionary.males.middle = [
     "n": "Макарович",
     "c": 103
   }
-]
+];

@@ -1,7 +1,4 @@
-if (!window.dictionary) window.dictionary = {};
-if (!dictionary.males) dictionary.males = {};
-
-dictionary.males.first = [
+export const malesFirst = [
 	{
 		"n": "Александр",
 		"c": 174222

@@ -1,0 +1,31 @@
+body, textarea, input {
+  font-family: 'Lato', 'PT Sans', 'Roboto', 'Verdana', 'Helvetica', sans-serif;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+textarea {
+  padding: 8px;
+}
+
+[type=number] {
+  padding: 2px 0 2px 8px;
+}
+
+
+.nm-Main_controlGroup {
+  padding: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.nm-Main_go {
+  padding: 10px;
+}
+
+.nm-Main_controls {
+  display: inline-block;
+  padding: 10px;
+  margin: 0 0 10px 0;
+  background: #f0f0f0;
+}
